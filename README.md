@@ -18,7 +18,7 @@
 
 然後就
 1.  選取語言 (目前只有支持簡/繁中文、英文、日文而已，如果有人需要別的語言請發[issue](https://github.com/kwea123/autosub/issues))
-2.  選取影像檔 (我只知道`.mp4`一定可以，其他的影像格式大家可以嘗試看看，如果不行請發[issue](https://github.com/kwea123/autosub/issues))
+2.  選取影像檔 (我只知道`.mp4`一定可以，其他的影像格式大家可以嘗試看看，如果不行請發[issue](https://github.com/kwea123/autosub/issues)) **注意：在影像路徑裡請不要包含中文或是空格，只能是英文！**
 3.  按右邊的開始按鈕
 
 按完之後會跑出下面的畫面：
