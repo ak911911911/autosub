@@ -4,6 +4,9 @@
 
 ## 使用方法
 
+### 0.  作業系統
+我只知道用windows 10 64位元可以唷啾咪^.<
+
 ### 1.  下載可執行檔 
 到[這裡](https://github.com/kwea123/autosub/releases/tag/0.6.0)下載可執行檔並解壓縮。
 
