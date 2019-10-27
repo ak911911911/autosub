@@ -5,7 +5,7 @@
 ## 使用方法
 
 ### 1.  下載可執行檔 
-到[這裡](https://github.com/kwea123/autosub/releases)下載可執行檔並解壓縮。
+到[這裡](https://github.com/kwea123/autosub/releases/tag/0.6.0)下載可執行檔並解壓縮。
 
 ### 2.  執行自動上字幕
 打開`autosub_gui.exe`，你會看到以下的畫面：
