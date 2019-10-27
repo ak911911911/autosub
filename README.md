@@ -38,5 +38,5 @@
 推薦使用[Aegisub](http://www.aegisub.org/)來編輯字幕檔。
 
 
-### 如果還有其他問題
+## 如果還有其他問題
 到[issue](https://github.com/kwea123/autosub/issues)提問。
