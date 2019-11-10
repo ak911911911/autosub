@@ -2,6 +2,8 @@
 
 原本的project在[這裡](https://github.com/BingLingGroup/autosub)，我幾乎都是從他那裡搬來的，然後做了一個使用者介面而已。
 
+[youtube影片介紹](https://youtu.be/ejom1M7lG-Q)
+
 ## 使用方法
 
 ### 0.  作業系統
