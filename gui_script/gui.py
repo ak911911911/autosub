@@ -4,8 +4,10 @@ from os import system, getcwd
 
 LANG_CODE_DICT = {u"中文(繁體)": "cmn-hant-tw", 
                   u"中文(简体)": "cmn-hans-cn",
+                  u"粵語"      : "yue-hant-hk",
                   u"English"   : "en-us", 
-                  u"日本語"    : "ja-jp"}
+                  u"日本語"    : "ja-jp",
+                  u"한국어"    : "ko-kr"}
 
 def convert_lang(lang_code):
     return LANG_CODE_DICT[lang_code]
