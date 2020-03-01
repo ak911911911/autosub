@@ -12,8 +12,7 @@ This is part of the [OpenVTuberProject](https://github.com/kwea123/OpenVTuberPro
 我只知道用windows 10 64位元可以唷啾咪^.<
 
 ### 1.  下載可執行檔 
-到[這裡](https://github.com/kwea123/autosub/releases/tag/0.6.0)下載可執行檔並解壓縮。(只要下載`autosub_release.zip
-`就可以了，`Source code`不用)
+到[這裡](https://github.com/kwea123/autosub/releases)下載可執行檔並解壓縮。(只要下載`autosub_release.zip`就可以了，`Source code`不用)
 
 ### 2.  執行自動上字幕
 打開`autosub_gui.exe`，你會看到以下的畫面：
